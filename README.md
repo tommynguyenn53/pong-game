@@ -10,10 +10,7 @@ A classic Pong game recreation built with Python and the `turtle` module. Two pl
 
 ```bash
 git clone https://github.com/tommynguyenn53/pong-game.git
-cd pong_game
-```
-
-```bash
+cd pong-game
 python3 main.py
 ```
 
