@@ -13,13 +13,6 @@ git clone https://github.com/tommynguyenn53/pong-game.git
 cd pong-game
 python3 main.py
 ```
-
-## ✨Features
-- Real-time paddle control for two players 
-- Ball bounces with speed increase 
-- Scoreboard tracking for both players 
-- Game-over logic when a point is scored
-
 ## 🎮 How to Play
 
 - **Right Player Controls:**
@@ -35,4 +28,12 @@ python3 main.py
 - The game continues infinitely and tracks scores in real-time.
 
 ---
+
+## ✨Features
+- Real-time paddle control for two players 
+- Ball bounces with speed increase 
+- Scoreboard tracking for both players 
+- Game-over logic when a point is scored
+
+
 
